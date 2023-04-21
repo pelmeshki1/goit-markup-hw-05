@@ -146,6 +146,7 @@ body {
   border-radius: 2px;
   background-color: #404bbf;
   margin-top: 20px;
+  bottom: -1px;
 }
 
 /* ADDRESS */
